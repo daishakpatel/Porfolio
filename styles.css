@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 20px; /* Added border radius */
+    overflow: hidden; /* Ensure rounded corners are visible */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+header h1 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+section {
+    margin-bottom: 30px;
+}
+h2 {
+    color: #555;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+p {
+    color: #666;
+    line-height: 1.6;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #888;
+}
+.image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px; /* Added border radius */
+}
+
+.ping_pong_image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px; /* Added border radius */
+    width: 600px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+}
